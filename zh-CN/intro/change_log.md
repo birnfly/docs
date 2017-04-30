@@ -6,6 +6,8 @@ name: 变更日志
 
 ### 未发布
 
+添加 typescript（.ts）文件在线查看支持
+
 #### Bug 修复
 
 - 编辑文件预览时无法正确处理图片相对链接 [#4368](https://github.com/gogits/gogs/issues/4368)
